@@ -12,9 +12,9 @@
 
 ## This is a fork of a fork
 
-The original project is  https://github.com/AliFlux/MapTilesDownloader
-It was forked by tobara8 to add attribution  https://github.com/tobara-va/MapTilesDownloader
-I forked tobara8 version and:
+The original project is  https://github.com/AliFlux/MapTilesDownloader</br>
+It was forked by tobara8 to add attribution  https://github.com/tobara-va/MapTilesDownloader</br>
+I forked the tobara8 version and:</br>
  - Removed some UI functionality, the drawing of individual map tile squares, and some logging to help improve performance. 
  - Fixed a crash and memory issue as described here https://github.com/AliFlux/MapTilesDownloader/issues/12
 

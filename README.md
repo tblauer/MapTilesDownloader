@@ -37,6 +37,8 @@ Needs **Python 3.0+**, [Pillow](https://pypi.org/project/Pillow/) library, and a
 
 ## Via Docker
 
+Note: 10/21/2044  Running with the docker image does not work yet.
+
 Docker is a pretty simple way to install and contain applications. [Install Docker on your system](https://www.docker.com/products/docker-desktop), and paste this on your command line:
 
 ```sh
